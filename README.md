@@ -1,7 +1,7 @@
 👀 I’m interested in AI and machine learning
 🌱 I’m currently learning Java and software development
 💞️ I’m looking to collaborate on AI and Java projects
-📫 How to reach me: [Your contact info]
+📫 How to reach me: [Habibaadle31@gmail.com]
 😄 Pronouns: She/Her
 ⚡ Fun fact: I love Sherlock Holmes stories
 <!---
